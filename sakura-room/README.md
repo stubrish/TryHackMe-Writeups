@@ -1,6 +1,7 @@
 #  Sakura Room (OSINT) Writeup  
 
 **Completed:** 16-04-25 
+
 **Difficulty:**  Easy 
  
 
@@ -15,7 +16,6 @@
 
 ## Task 2 - TIP-OFF
 **Question:** What username does the attacker go by?
-- **Objective:** Find attacker's username from image metadata
 - **Method:**
   1. Open the provided image
   2. Viewed source code (Right Click → View Page Source)
@@ -78,3 +78,12 @@
   1. All the hints given in the Twitter/X i tried but the deep paste onion site was not working hence used the image provided by the room maker and found the Home [WIFI name](screenshots/darkweb.png)
   2. Searched network name `DK1F-G` on [Wigle](https://wigle.net/) → Found [BSSID](screenshots/wigle.png)
 - **Answer:** `DE:AD:BE:EF:CA:FE`
+
+## Task 6 - HOMEBOUND
+
+### Q1: What airport is closest to the location the attacker shared a photo from prior to getting on their flight?
+- **Method:**  
+  1. Found a [picture](screenshots/twitterpic.png) with the a tweet saying -> Checking out some last minute cherry blossoms before heading home!
+  2. After a through analysis found out the airport by searching for the[monument](screenshots/airportcode.png) in the picture
+  3. Searched for the [airport code](https://www.nationsonline.org/oneworld/IATA_Codes/airport_code_list.htm)
+- **Answer:** `DCA`  
