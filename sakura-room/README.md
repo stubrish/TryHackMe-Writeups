@@ -77,7 +77,7 @@
 - **Method:**
   1. All the hints given in the Twitter/X i tried but the deep paste onion site was not working hence used the image provided by the room maker and found the Home [WIFI name](screenshots/darkweb.png)
   2. Searched network name `DK1F-G` on [Wigle](https://wigle.net/) → Found [BSSID](screenshots/wigle.png)
-- **Answer:** `DE:AD:BE:EF:CA:FE`
+- **Answer:** `84:af:ec:34:fc:f8`
 
 ## Task 6 - HOMEBOUND
 
@@ -87,3 +87,9 @@
   2. After a through analysis found out the airport by searching for the [monument](screenshots/twitterpic.png) in the picture
   3. Searched for the [airport](https://www.nationsonline.org/oneworld/IATA_Codes/airport_code_list.htm) and found out the code [airport code](screenshots/airportcode.png)
 - **Answer:** `DCA`  
+
+### Q2: What airport did the attacker have their last layover in?
+- **Method:**  
+  1. Found a picture with the a tweet saying -> My final layover, time to relax!
+  2. After a through analysis and searching for first class loung i found out the [answer](screenshots/lounge.png)
+- **Answer:** `HND`  
