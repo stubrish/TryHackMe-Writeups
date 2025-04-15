@@ -38,3 +38,10 @@
   2. Profile revealed: `@SakuraLoverAiko`
   3. Found tweet with [full name](screenshots/fullname.png)
 - **Answer:** `Aiko Abe`
+
+## Task 4 - UNVEIL
+
+### Q1: What cryptocurrency does the attacker own a cryptocurrency wallet for?
+- **Method:**  
+  Found `ETH-Wallet` repo in SakuraSnowAngelAiko's GitHub → Clear   [Ethereum reference](screenshots/etherium.png)
+- **Answer:** `Ethereum`  
