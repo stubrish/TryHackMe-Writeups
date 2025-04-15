@@ -43,5 +43,11 @@
 
 ### Q1: What cryptocurrency does the attacker own a cryptocurrency wallet for?
 - **Method:**  
-  Found `ETH-Wallet` repo in SakuraSnowAngelAiko's GitHub → Clear   [Ethereum reference](screenshots/etherium.png)
+  Found `ETH` repo in SakuraSnowAngelAiko's GitHub → Clear   [Ethereum reference](screenshots/etherium.png)
 - **Answer:** `Ethereum`  
+
+### Q2: What is the attacker's cryptocurrency wallet address?
+- **Method:**
+  1. Reviewed commit history in [ETH](screenshots/walletaddress1.png) repo
+  2. Found address in Commit [5d83f7b](screenshots/walletaddress2.png)
+- **Answer:** `0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef`  
