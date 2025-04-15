@@ -51,3 +51,17 @@
   1. Reviewed commit history in [ETH](screenshots/walletaddress1.png) repo
   2. Found address in Commit [5d83f7b](screenshots/walletaddress2.png)
 - **Answer:** `0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef`  
+
+### Q3: What mining pool did the attacker receive payments from on January 23, 2021 UTC?
+- **Method:**
+  1. Queried address on [Etherscan](https://etherscan.io)
+  2. Filtered transactions for `Jan 23, 2021`
+  3. Identified mining payout from [pool](screenshots/payment.png)
+- **Answer:** `Ethermine`  
+
+### Q4: What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?
+- **Method:**  
+  1. Used Etherscan Advanced Filter 
+  2. Selected `Asset` tab  
+  3. Found USDT (Tether) [transactions](screenshots/othercrypto.png)
+- **Answer:** `Tether`  
