@@ -29,7 +29,7 @@
   1. Checked Github via Google: `"SakuraSnowAngelAiko"`
   2. Located `PGP` repo → found [publickey](screenshots/PGP.png) file
   3. Found email in decoded PGP key:  
-  [CyberChef output](screenshots/cyberchef.png)
+  [CyberChef output](screenshots/fullname.png)
 - **Answer:** `SakuraSnowAngel83@protonmail.com`
 
 ### Question 2: What is the attacker's full real name?
