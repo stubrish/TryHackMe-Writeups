@@ -93,3 +93,14 @@
   1. Found a picture with the a tweet saying -> My final layover, time to relax!
   2. After a through analysis and searching for first class loung i found out the [answer](screenshots/lounge.png)
 - **Answer:** `HND`  
+
+### Q3: What lake can be seen in the map shared by the attacker as they were on their final flight home?
+- **Method:**  
+  1. Found a picture with the a tweet saying -> Sooo close to home! Can't wait to finally be back! :)
+  2. After a through analysis and searching for the lake i [got](screenshots/lake.png)
+- **Answer:** `Lake Inawashiro`  
+
+### Q4: What city does the attacker likely consider "home"?
+- **Method:**  
+  Well for this question as we already had the picture from the darkweb there is the city name in that [picture](screenshots/darkweb.png)  or we can just do a through analysis from the information obtained throughout the Lab.
+- **Answer:** `Hirosaki`  
