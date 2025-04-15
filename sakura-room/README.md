@@ -84,6 +84,6 @@
 ### Q1: What airport is closest to the location the attacker shared a photo from prior to getting on their flight?
 - **Method:**  
   1. Found a picture with the a tweet saying -> Checking out some last minute cherry blossoms before heading home!
-  2. After a through analysis found out the airport by searching for the[monument](screenshots/twitterpic.png) in the picture
-  3. Searched for the [airport](https://www.nationsonline.org/oneworld/IATA_Codes/airport_code_list.htm)and found out the code[airport code](screenshots/airportcode.png)
+  2. After a through analysis found out the airport by searching for the [monument](screenshots/twitterpic.png) in the picture
+  3. Searched for the [airport](https://www.nationsonline.org/oneworld/IATA_Codes/airport_code_list.htm) and found out the code [airport code](screenshots/airportcode.png)
 - **Answer:** `DCA`  
