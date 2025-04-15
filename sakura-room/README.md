@@ -64,4 +64,17 @@
   1. Used Etherscan Advanced Filter 
   2. Selected `Asset` tab  
   3. Found USDT (Tether) [transactions](screenshots/othercrypto.png)
-- **Answer:** `Tether`  
+- **Answer:** `Tether`
+
+## Task 5 - TAUNT
+
+### Q1: What is the attacker's current Twitter handle?
+- **Method:**
+    Checked Twitter/X: via Google: `sakurasnowangelaiko `
+- **Answer:** `SakuraLoverAiko`
+
+### Q2: What is the BSSID for the attacker's Home WiFi? 
+- **Method:**
+  1. All the hints given in the Twitter/X i tried but the deep paste onion site was not working hence used the image provided by the room maker and found the Home [WIFI name](screenshots/darkweb.png)
+  2. Searched network name `DK1F-G` on [Wigle](https://wigle.net/) → Found [BSSID](screenshots/wigle.png)
+- **Answer:** `DE:AD:BE:EF:CA:FE`
